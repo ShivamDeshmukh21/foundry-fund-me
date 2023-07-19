@@ -30,7 +30,7 @@ A fund gathering smart contract project similar to Kickstarter that allows for f
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
+git clone https://github.com/ShivamDeshmukh21/foundry-fund-me
 cd foundry-fund-me-f23
 forge build
 ```
