@@ -152,6 +152,6 @@ This project is from the Foundry 2023 course by Patrick Collins.
 *[Link to the course](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)*
 
 
-Connect with me on:-
+Connect with me on:- \
 [![Shivam Deshmukh Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShivamD21)
 [![Shivam Deshmukh Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-deshmukh-80825a1aa/)
